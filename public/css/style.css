@@ -1,0 +1,12 @@
+header {
+    background-image: url("../images/4882066.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
